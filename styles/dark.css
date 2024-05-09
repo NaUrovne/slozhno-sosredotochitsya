@@ -6,10 +6,11 @@
 
 .page.theme_dark {
   --bg-color: #000028;
-  --nav-color: #FF0070;
+  --nav-color: #ff0070;
   --title-color: #db00ff;
-  --text-color: #F1B2CE;
-  --filler-color: #FF0070;
+  --text-color: #f1b2ce;
+  --filler-color: #ff0070;
   --secondary-color: #000028;
-  --shadow-color: #FF0070;
+  --shadow-color: #ff0070;
+  --subtitle-color: #ff0070;
 }
