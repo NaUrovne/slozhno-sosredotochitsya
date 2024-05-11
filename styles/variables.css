@@ -11,5 +11,6 @@
   --secondary-color: #000028;
   --shadow-color: #ff0070;
   --subtitle-color: #ff0070;
+  --hover-color: rgb(255, 0, 112, 0.4);
   --main-font: "IBM Plex mono";
 }

@@ -13,6 +13,7 @@
   --secondary-color: #353430;
   --shadow-color: #ff0070;
   --subtitle-color: #353430;
+  --hover-color: rgb(50, 49, 45, 0.4);
   background-image: url(/images/cover-image-light.png);
   .header__lamp {
     display: none;
@@ -29,6 +30,7 @@
     --secondary-color: #353430;
     --shadow-color: #ff0070;
     --subtitle-color: #353430;
+    --hover-color: rgb(50, 49, 45, 0.4);
   }
   .theme_auto.page {
     background-image: url(/images/cover-image-light.png);
